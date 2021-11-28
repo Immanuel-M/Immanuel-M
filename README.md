@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...Visual Studio
+- 🔭 I’m currently working on ...Visual Studio (Solar Sales)
 - 🌱 I’m currently learning ...C++/Python/Java
 - 👯 I’m looking to collaborate on ...Python
 - 🤔 I’m looking for help with ... AWS/Python
