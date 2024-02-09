@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Java (Grocery App)
-- 🌱 I’m currently learning ...C++/Python/Java/ARM(LC-3)
+- 🌱 I’m currently learning ...C++/Python/Java/VEX
 - 👯 I’m looking to collaborate on ...Python/JAVA
 - 🤔 I’m looking for help with ... App Development
 - 💬 Ask me about ... Anything
