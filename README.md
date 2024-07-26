@@ -4,8 +4,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...Java (Grocery App)
-- 🌱 I’m currently learning ...C++/Python/Java/VEX
+- 🔭 I’m currently working on ...Python (Delivery App)
+- 🌱 I’m currently learning ...C++/Python/Java/Houdini
 - 👯 I’m looking to collaborate on ...Python/JAVA
 - 🤔 I’m looking for help with ... App Development
 - 💬 Ask me about ... Anything
